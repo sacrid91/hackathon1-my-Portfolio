@@ -44,26 +44,8 @@ All design decisions align with a modern, minimalist aesthetic focused on **user
 ---
 
 ## 📁 Project Structure
-LABAN LOKERIS/
-│
-├── index.html                  # Main HTML file
-├── favicon.svg                 # Favicon
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css           # Main stylesheet
-│   │
-│   ├── cv/
-│   │   └── laban-cv.pdf        # Resume/CV file
-│   │
-│   ├── icons/                  # SVG icons for social links, navbar, etc.
-│   │
-│   └── images/                 # Hero banner, project thumbnails, SVG masks
-│       ├── hero-banner.jpg
-│       ├── project-1.png
-│       └── ...2,3,4.png
-│
-└── README.md                   # This file
+LABAN LOKERIS/ assets/ ,favicon.svg,index.html
+->The assets/ folder contains images/,icons/,cv/,css/ that makes the site responsive
 
 ## 📱 Responsive Behavior
 
