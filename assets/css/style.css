@@ -664,3 +664,18 @@ Customize Skills,Edu bg, Interests
   font-weight: bold;
   margin-right: 8px;
 }
+
+.btn-text::after {
+  content: "→";
+  margin-left: 8px;
+  color: #a07cc5; /* Matches your style */
+  opacity: 0;
+  display: inline-block;
+  vertical-align: middle;
+  transition: var(--transition-1);
+}
+.btn-text:hover::after,
+.btn-text:focus-visible::after {
+  opacity: 1;
+  transform: translateX(5px);
+}
