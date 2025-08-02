@@ -1,10 +1,7 @@
 # Laban Lokeris - Personal Portfolio
-
-![Portfolio Screenshot](assets/images/hero-banner.jpg)
-
 A clean, responsive, and animated personal portfolio built with **vanilla HTML & CSS only** — no JavaScript, no frameworks. Designed and developed by **Laban Lokeris**, a UI Designer & Developer from Kenya.
 
-🔗 **Live Preview**: [https://codewithlaban.github.io](https://codewithlaban.github.io)  
+🔗 **Live Preview**: [https://sacrid91.github.io/hackathon1-my-Portfolio/]
 🎯 **Hackathon Submission**: Built entirely without JavaScript, using semantic HTML and modern CSS techniques.
 
 ---
